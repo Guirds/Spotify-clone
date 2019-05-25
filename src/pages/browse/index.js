@@ -9,7 +9,7 @@ const Browse = () => (
     <Title>Navegar</Title>
 
     <List>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="http://www.naijaloaded.com.ng/wp-content/uploads/2016/12/YUNGTIZZY-SHELEGANGAN-ART-700x700.jpg"
           alt="Playlist"
@@ -17,7 +17,7 @@ const Browse = () => (
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo apenas as melhores do rock mundial!</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="http://www.naijaloaded.com.ng/wp-content/uploads/2016/12/YUNGTIZZY-SHELEGANGAN-ART-700x700.jpg"
           alt="Playlist"
@@ -25,7 +25,7 @@ const Browse = () => (
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo apenas as melhores do rock mundial!</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="http://www.naijaloaded.com.ng/wp-content/uploads/2016/12/YUNGTIZZY-SHELEGANGAN-ART-700x700.jpg"
           alt="Playlist"
@@ -33,7 +33,7 @@ const Browse = () => (
         <strong>Rock dos bons</strong>
         <p>Relaxe enquanto você programa ouvindo apenas as melhores do rock mundial!</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="http://www.naijaloaded.com.ng/wp-content/uploads/2016/12/YUNGTIZZY-SHELEGANGAN-ART-700x700.jpg"
           alt="Playlist"
