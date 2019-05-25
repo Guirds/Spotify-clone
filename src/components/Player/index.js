@@ -16,7 +16,10 @@ import RepeatIcon from '../../assets/images/repeat.svg';
 const Player = () => (
   <Container>
     <Current>
-      <img src="" alt="cover" />
+      <img
+        src="http://www.naijaloaded.com.ng/wp-content/uploads/2016/12/YUNGTIZZY-SHELEGANGAN-ART-700x700.jpg"
+        alt="cover"
+      />
 
       <div>
         <span>Times like these</span>
